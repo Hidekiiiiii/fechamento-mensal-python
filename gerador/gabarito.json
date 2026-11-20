@@ -1,0 +1,118 @@
+{
+  "mes": "2025-10",
+  "extracao_1": {
+    "veredito": "não apresentável",
+    "C1": {
+      "status": "Bloqueia",
+      "erro_aritmetico": [
+        {
+          "conta": "2.1.03",
+          "unidade": "SERV",
+          "diferenca": 12480.0
+        }
+      ],
+      "saldo_inicial": [
+        {
+          "conta": "1.1.06",
+          "unidade": "CORP",
+          "diferenca": 37215.4
+        },
+        {
+          "conta": "1.2.01",
+          "unidade": "CORP",
+          "diferenca": -37215.4
+        }
+      ]
+    },
+    "C2": {
+      "status": "Bloqueia",
+      "linhas": 6,
+      "debitos_faltantes": 64300.0,
+      "creditos_faltantes": 64300.0
+    }
+  },
+  "extracao_2": {
+    "veredito": "com ressalvas",
+    "ebitda_antes": 1420000.0,
+    "ebitda_depois": 959700.0,
+    "C1": {
+      "status": "OK"
+    },
+    "C2": {
+      "status": "OK"
+    },
+    "C3": {
+      "status": "Pendência",
+      "pendencia": 140700.0,
+      "cheque_antigo": 48700.0,
+      "nao_identificado": 92000.0,
+      "transito_no_prazo": 215000.0,
+      "tarifas": -4286.9,
+      "rendimentos": 18640.22,
+      "diferenca_nao_explicada": 0.0
+    },
+    "C4": {
+      "status": "Pendência",
+      "diferenca": 156000.0,
+      "unidades": [
+        "DIST"
+      ],
+      "razao_cr": 25556000.0,
+      "aging_cr": 25400000.0
+    },
+    "C5": {
+      "status": "Pendência",
+      "diferenca": 22400.0,
+      "centros": [
+        "SERV-CDSE"
+      ],
+      "folha": 412300.0,
+      "razao": 389900.0
+    },
+    "C6": {
+      "status": "Pendência",
+      "lancamentos": 7,
+      "valor": 327500.0,
+      "competencia": 286000.0,
+      "corte": 41500.0
+    },
+    "C7": {
+      "status": "Pendência",
+      "valor": 201450.0,
+      "itens": [
+        {
+          "conta": "2.1.01",
+          "unidade": "DIG",
+          "saldo": 73000.0
+        },
+        {
+          "conta": "1.1.09",
+          "unidade": "CORP",
+          "saldo": 128450.0
+        }
+      ],
+      "recorrentes_faltantes": 247000.0
+    },
+    "C8": {
+      "status": "Alerta",
+      "itens": [
+        {
+          "conta": "5.1.04",
+          "unidade": "DIST",
+          "setembro": 690000.0,
+          "outubro": 1020000.0
+        }
+      ]
+    },
+    "A1": 155000.0,
+    "A2": 58300.0,
+    "A3": 247000.0,
+    "A4": {
+      "tarifas": 4286.9,
+      "rendimentos": 18640.22
+    },
+    "pdd_calculada": 1025000.0,
+    "pdd_contabil": 870000.0,
+    "pendencias_total": 520550.0
+  }
+}

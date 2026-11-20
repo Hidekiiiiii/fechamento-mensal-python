@@ -1,0 +1,5 @@
+1. Fechamento de out/25 não apresentável: C1 (integridade do balancete) e C2 (razão × balancete) bloqueiam o pacote. Os números abaixo são preliminares; é preciso reextrair o ERP.
+2. EBITDA do mês: R$ 1,42 mi antes dos ajustes e R$ 0,96 mi após os ajustes propostos (PDD, provisão de férias e 13º e despesas sem nota: −R$ 460,3 mil), contra R$ 1,74 mi em set/25. Se as pendências de C4, C5 e C6 se confirmarem, vai a R$ 1,07 mi.
+3. Pendências de conciliação, em valor absoluto: R$ 520,6 mil (banco R$ 140,7 mil, clientes R$ 156 mil, folha R$ 22,4 mil e saldos inesperados R$ 201,5 mil). Corte: R$ 286 mil de competência futura a estornar e relançar e R$ 41,5 mil lançados depois do corte, a validar.
+4. Caixa: 2 itens com a tesouraria: um cheque de R$ 48,7 mil em aberto há 9 dias úteis e um crédito não identificado de R$ 92 mil.
+5. Fretes sobre vendas da Atlas Distribuição +48% contra set/25 (+R$ 330 mil), com justificativa pendente do gestor. Prazo: 12/11/2025.
